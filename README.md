@@ -39,7 +39,7 @@ Expense-Tracker/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Expense-Tracker.git
+git clone https://github.com/Mantsha275/Expense-Tracker.git
 ```
 
 2. Open the project folder.
