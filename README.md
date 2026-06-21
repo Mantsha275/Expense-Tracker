@@ -61,7 +61,7 @@ git clone https://github.com/YOUR_USERNAME/Expense-Tracker.git
 
 **YOUR NAME**
 
-GitHub: @your_username
+GitHub: @Mantsha275
 
 ---
 
