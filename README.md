@@ -47,7 +47,7 @@ git clone https://github.com/Mantsha275/Expense-Tracker.git
 
 ## 📸 Screenshots
 
-<img width="1536" height="1024" alt="screenshot" src="Screenshot 2026-06-21 183550.png" />
+<img width="1536" height="1024" alt="screenshot" src="Screenshot 2026-06-21 183917.png" />
 
 ## 🎯 What I Learned
 
